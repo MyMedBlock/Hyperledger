@@ -1,0 +1,7 @@
+Hyperledger Fabric = OS for the blockchain 
+HyperLedger Composer is the tool kit, set of APIs, etc. 
+
+---> Business Networks are defined by models, scripts, metadata and ACLs...Packaged in the Business Network Archive. 
+         - Solutions Developer --> models the business network, creates scripts that define the transactions which are 
+         stored in the (BNA)
+         - Solutions Admimistrator  --> provision the target environment and change manage and deploy
